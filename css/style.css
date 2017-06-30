@@ -89,6 +89,7 @@ header {
  #menu li.active {
    cursor: default;
  }
+
  #menu .sep {
   width: 2px;
   background: url(../img/seperator.png) no-repeat right;
@@ -102,6 +103,6 @@ header {
   padding-top: 10px;
  }
 
- a img {
+#menu a img {
    border: none;
  }
